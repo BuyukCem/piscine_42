@@ -1,0 +1,5 @@
+Credentials cache: API:3DB08712-609D-432D-89D0-92A7B6F19472
+        Principal: cbuyuk@42.FR
+
+  Issued                Expires               Principal
+Jul  3 15:17:02 2019  Jul 10 15:17:02 2019  krbtgt/42.FR@42.FR
